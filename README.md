@@ -22,3 +22,14 @@ To run the analysis locally, you will need the following Python libraries instal
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
+
+```
+## 📈 Key Visualizations
+
+The notebook includes several key plots to aid interpretation:
+
+Correlation Heatmaps: To visualize the strength of relationships between numerical variables.
+
+Category-wise Bar Charts: Identifying which genres dominate the trending charts.
+
+Time-Series Graphs: Plotting view growth trends over the duration of the dataset.
